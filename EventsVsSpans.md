@@ -166,4 +166,4 @@ By now, I hopefully convinced you that event based tracing makes up for some of 
 
 I hope you agree that the event model could be introduced underneath the OpenTracing API, transparently to already instrumented software.
 
-Perhaps I have even managed to trick you into wondering how the OpenTracing API could be extened at least to the asynchronous messaging programming models.
+Perhaps I have even managed to trick you into wondering how the OpenTracing API could be extended at least to the asynchronous messaging programming model.
